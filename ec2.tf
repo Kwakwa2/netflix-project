@@ -2,3 +2,5 @@
 # type --> t2.xlarge 
 # os --> windows
 
+
+# add abs volume 100 GB
