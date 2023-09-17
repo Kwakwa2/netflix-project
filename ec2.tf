@@ -1,4 +1,3 @@
-provider "AWS" {
-
+resource "name" "name" {
   
 }
